@@ -1,0 +1,16 @@
+[submodule "Analytics"]
+	path = Analytics
+	url = https://github.com/f-ship/Engine.Server.Utils.Monitoring.Analytics
+    branch = main
+[submodule "Crash"]
+	path = Crash
+	url = https://github.com/f-ship/Engine.Server.Utils.Monitoring.Crash
+    branch = main
+[submodule "Error"]
+	path = Error
+	url = https://github.com/f-ship/Engine.Server.Utils.Monitoring.Error
+    branch = main
+[submodule "Performance"]
+	path = Performance
+	url = https://github.com/f-ship/Engine.Server.Utils.Monitoring.Performance
+    branch = main
